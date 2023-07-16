@@ -1,0 +1,63 @@
+[
+{
+"id":1,
+"productname":"DSLR Camera",
+"price":"32000",
+"rating":"4",
+"image":"https://i.gadgets360cdn.com/products/cameras/large/1548234737_832_canon_eos-6d-20-2mp-dslr-camera.jpg"
+
+},
+{
+"id":2,
+"productname":"i Phone 12 pro",
+"price":"67000",
+"rating":"4",
+"image":"https://s3n.cashify.in/cashify/store/product//e7063cf92403473bba862c0c94cf15c3.jpg"
+
+},
+{
+"id":3,
+"productname":"Noise Earbuds",
+"price":"2000",
+"rating":"3",
+"image":"https://m.media-amazon.com/images/I/51Erf4QNwyL.jpg"
+
+},
+{
+"id":4,
+"productname":"Jib+ Wireless",
+"price":"32000",
+"rating":"5",
+"image":"https://d3lnc7yu1ksdj.cloudfront.net/wp-content/uploads/2022/08/Jib-Plus_S2JPW-M003_Black_Hero.jpg"
+
+},
+{
+"id":5,
+"productname":"i Phone 12 pro",
+"price":"67000",
+"rating":"4",
+"image":"https://s3n.cashify.in/cashify/store/product//e7063cf92403473bba862c0c94cf15c3.jpg"
+
+},
+{
+"id":6,
+"productname":"DSLR 2 Camera",
+"price":"32000",
+"rating":"5",
+"image":"https://m.media-amazon.com/images/I/51Erf4QNwyL.jpg"
+
+},{
+"id":7,
+"productname":"Noise Earbuds",
+"price":"2000",
+"rating":"3",
+"image":"https://d3lnc7yu1ksdj.cloudfront.net/wp-content/uploads/2022/08/Jib-Plus_S2JPW-M003_Black_Hero.jpg"
+},{
+"id":8,
+"productname":"DSLR 2 Camera",
+"price":"32000",
+"rating":"3",
+"image":"https://i.gadgets360cdn.com/products/cameras/large/1548234737_832_canon_eos-6d-20-2mp-dslr-camera.jpg"
+
+}
+]
